@@ -41,7 +41,7 @@ Dataset source: TMDB (via Kaggle)
 
 ## 🛠️ Technologies & Libraries
 
-* **Python 3.x**
+* **Python 3.12**
 * **Pandas**, **NumPy** – data manipulation
 * **NLTK** – text preprocessing and stemming
 * **Scikit-learn** – vectorization and similarity computation
@@ -71,11 +71,11 @@ recommend("Avatar")
 **Sample Output:**
 
 ```
-Guardians of the Galaxy
-Star Trek
-The Avengers
-John Carter
-Man of Steel
+Aliens vs Predator: Requiem
+Aliens
+Falcon Rising
+Independence Day
+Titan A.E.
 ```
 
 The function returns movies ranked by similarity to the input title.
