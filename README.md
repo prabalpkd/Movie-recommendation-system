@@ -21,8 +21,8 @@ This approach is especially useful when:
 ---
 ## 🎥 Demo
 
-* Live Project: (https://movie-recommendation-system-c2s7xfl8mjczzwztdwbudy.streamlit.app/)
-* Snapshot: 
+* Check out the live Streamlit app here: [Movie_Recommender_System](https://movie-recommendation-system-c2s7xfl8mjczzwztdwbudy.streamlit.app/)
+* ![App Screenshot](https://github.com/prabalpkd/Movie-recommendation-system/blob/main/Snapshot-03.png)
 
 ---
 
