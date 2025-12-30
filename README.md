@@ -19,6 +19,12 @@ This approach is especially useful when:
 - Explainability is important
 
 ---
+## 🎥 Demo
+
+* Live Project: (https://movie-recommendation-system-c2s7xfl8mjczzwztdwbudy.streamlit.app/)
+* Snapshot: 
+
+---
 
 ## 📂 Dataset Information
 The project uses the **TMDB 5000 Movies Dataset**, which contains metadata for ~5000 movies.
@@ -217,9 +223,11 @@ These files can be directly loaded into:
 
 ---
 
-## 📄 License
+##🧑‍💻 Author
 
-This project is intended for **academic and educational purposes only**.
+- Prabal
+- Aspiring Data Scientist
+- Skilled in Machine Learning, NLP, Deep Learning & Recommendation Systems
 
 ---
 
