@@ -1,6 +1,6 @@
 # 🎬 Content-Based Movie Recommendation System
 
-## 📌 Project Description
+## 📌 Project Description:
 This project implements an **end-to-end Content-Based Movie Recommendation System** using **Natural Language Processing (NLP)** techniques.  
 The system recommends movies based on **similarity between movie content**, such as plot overview, genres, keywords, cast, and director.
 
